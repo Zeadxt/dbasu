@@ -43,6 +43,8 @@ END
 systemctl start xolpanel 
 systemctl enable xolpanel
 
+sleep 3
+
 clear
 
 echo " Installations complete, type /menu on your bot"
